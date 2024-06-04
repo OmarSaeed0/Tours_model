@@ -1,0 +1,75 @@
+{
+    "tours": [
+      {
+        "name": "The Forest Hiker",
+        "duration": 5,
+        "maxGroupSize": 15,
+        "difficulty": "easy",
+        "ratingsAverage": 4.7,
+        "ratingsQuantity": 37,
+        "price": 497,
+        "summary": "Breathtaking hike through the Canadian Banff National Park",
+        "description": "Experience the serenity of the Canadian wilderness with a guide who knows the way.",
+        "imageCover": "forest-hiker.jpg",
+        "images": ["forest-1.jpg", "forest-2.jpg", "forest-3.jpg"],
+        "startDates": ["2024-05-17", "2024-06-10", "2024-07-19"]
+      },
+      {
+        "name": "The Sea Explorer",
+        "duration": 7,
+        "maxGroupSize": 12,
+        "difficulty": "medium",
+        "ratingsAverage": 4.8,
+        "ratingsQuantity": 28,
+        "price": 997,
+        "summary": "Sail through the beautiful islands of Phuket, Thailand",
+        "description": "Explore the crystal clear waters and exotic marine life with our experienced crew.",
+        "imageCover": "sea-explorer.jpg",
+        "images": ["sea-1.jpg", "sea-2.jpg", "sea-3.jpg"],
+        "startDates": ["2024-06-01", "2024-07-15", "2024-08-20"]
+      },
+      {
+        "name": "The Snow Adventurer",
+        "duration": 4,
+        "maxGroupSize": 10,
+        "difficulty": "difficult",
+        "ratingsAverage": 4.9,
+        "ratingsQuantity": 53,
+        "price": 799,
+        "summary": "Exciting snow adventure in the Swiss Alps",
+        "description": "Join us for an exhilarating snowboarding experience with breathtaking views.",
+        "imageCover": "snow-adventurer.jpg",
+        "images": ["snow-1.jpg", "snow-2.jpg", "snow-3.jpg"],
+        "startDates": ["2024-12-01", "2025-01-15", "2025-02-20"]
+      },
+      {
+        "name": "The Desert Wanderer",
+        "duration": 3,
+        "maxGroupSize": 8,
+        "difficulty": "medium",
+        "ratingsAverage": 4.6,
+        "ratingsQuantity": 42,
+        "price": 399,
+        "summary": "Experience the vastness of the Sahara Desert",
+        "description": "Take a guided tour through the Sahara Desert and experience the nomadic lifestyle.",
+        "imageCover": "desert-wanderer.jpg",
+        "images": ["desert-1.jpg", "desert-2.jpg", "desert-3.jpg"],
+        "startDates": ["2024-09-10", "2024-10-15", "2024-11-20"]
+      },
+      {
+        "name": "The City Lights",
+        "duration": 2,
+        "maxGroupSize": 20,
+        "difficulty": "easy",
+        "ratingsAverage": 4.5,
+        "ratingsQuantity": 30,
+        "price": 299,
+        "summary": "Explore the vibrant city life of New York City",
+        "description": "Discover the iconic landmarks and hidden gems of NYC with a local guide.",
+        "imageCover": "city-lights.jpg",
+        "images": ["city-1.jpg", "city-2.jpg", "city-3.jpg"],
+        "startDates": ["2024-05-05", "2024-06-15", "2024-07-20"]
+      }
+    ]
+  }
+  
